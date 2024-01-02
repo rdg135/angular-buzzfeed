@@ -1,5 +1,5 @@
 {
-    "title":"Você seria um heroi ou vilão ?",
+    "title":"Você seria um Heroi ou Vilão ?",
     "questions":[
       {
         "id":1,
@@ -23,17 +23,17 @@
       },
       {
         "id":3,
-        "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+        "question": "Qual a sua maior preocupação ao enfretar outro grande inimigo ?",
         "options":[
           {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-          {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
+          {"id": 2, "name":"Aniquilar o inimigo", "alias":"A"},
           {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-          {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+          {"id": 4, "name":"Evitar machucar inocentes", "alias":"B"}
         ]
       },
       {
         "id":4,
-        "question": "Qual o seu maior foco ?",
+        "question": "Qual o seu maior objetivo ?",
         "options":[
           {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
           {"id": 2, "name":"Salvar a cidade", "alias":"B"}
@@ -41,7 +41,7 @@
       },
       {
         "id":5,
-        "question": "Qual o seu apelido de super ser ?",
+        "question": "Como você gostaria de ser conheido ?",
         "options":[
           {"id": 1, "name":"O Terrivel", "alias":"A"},
           {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
